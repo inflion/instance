@@ -1,0 +1,7 @@
+domain: inflion.com
+repo: github.com/inflion/instance
+resources:
+- group: inflion
+  kind: Instance
+  version: v1beta1
+version: "2"

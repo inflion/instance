@@ -1,0 +1,6 @@
+apiVersion: inflion.inflion.com/v1beta1
+kind: Instance
+metadata:
+  name: instance-sample
+spec:
+  instanceId: i-0b0f3a0c19228cde3
